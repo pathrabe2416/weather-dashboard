@@ -4,13 +4,14 @@ A responsive weather dashboard built using **HTML, CSS, and JavaScript**. It dis
 
 ## Live Demo
 
-🔗 **Live Demo:** `PASTE_YOUR_LIVE_DEMO_LINK_HERE`
+🔗 **Live Demo:** https://pathrabe2416.github.io/weather-dashboard/
 
 ## Snapshot
 
 📸 **Project Screenshot:**
 
-`PASTE_YOUR_SCREENSHOT_HERE`
+<img width="1212" height="690" alt="image" src="https://github.com/user-attachments/assets/2cac865b-e84b-4aaa-b4c0-c19364be3fd9" />
+
 
 ---
 
